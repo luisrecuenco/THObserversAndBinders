@@ -10,4 +10,5 @@
 
 #import "THObserver.h"
 #import "THObserver+Owner.h"
+#import "THObserver+CallbackQueue.h"
 #import "THBinder.h"
